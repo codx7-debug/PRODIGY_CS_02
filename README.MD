@@ -251,9 +251,9 @@ Potential improvements include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Saleh Al-shami**
 
-Add your GitHub username, portfolio, or contact details here.
+
 
 ---
 
