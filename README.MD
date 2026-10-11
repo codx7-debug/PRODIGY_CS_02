@@ -1,14 +1,12 @@
 # 🔐 PixelCrypt — Image Encryption Tool
 
-<p align="center">
-  <strong>A Python-based image encryption tool using XOR encryption and pixel shuffling.</strong>
-</p>
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-46A2F1?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-Learning_Project-2EA44F?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pillow-Image_Processing-46A2F1?style=for-the-badge" alt="Pillow">
+  <img src="https://img.shields.io/badge/Status-Learning_Project-2EA44F?style=for-the-badge" alt="Learning Project">
 </p>
+
 
 ## 📌 Overview
 
